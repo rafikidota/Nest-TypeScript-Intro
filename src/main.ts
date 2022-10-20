@@ -3,7 +3,8 @@ import './style.css'
 // import { setupCounter } from './counter'
 // import { name } from './bases/01-types'
 // import { pokemon } from './bases/02-objects'
-import { charmander } from './bases/03-classes'
+// import { charmander } from './bases/03-classes'
+import { charmander } from './bases/04-injection'
 
 // document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 //   <div>
