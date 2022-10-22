@@ -1,5 +1,5 @@
 import { Move, PokeapiResponse } from '../interfaces/pokeapi-response.interface';
-import { PokeApiAxiosAdapter, PokeApiFetchAdapter, HttpAdapter } from './api/pokeApi.adapter';
+import { PokeApiAxiosAdapter, PokeApiFetchAdapter, HttpAdapter } from '../api/pokeApi.adapter';
 
 export class Pokemon {
 
