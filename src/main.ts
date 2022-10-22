@@ -1,4 +1,3 @@
-import { charmander } from './bases/05-decorator'
 import './style.css'
 // import typescriptLogo from './typescript.svg'
 // import { setupCounter } from './counter'
@@ -6,6 +5,8 @@ import './style.css'
 // import { pokemon } from './bases/02-objects'
 // import { charmander } from './bases/03-classes'
 // import { charmander } from './bases/04-injection'
+// import { charmander } from './bases/05-decorator'
+import { charmander } from './bases/06-decorator'
 
 // document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 //   <div>
